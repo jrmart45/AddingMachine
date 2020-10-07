@@ -1,5 +1,10 @@
 package cse360assignment02;
-
+/**
+ * 
+ * @author Jemiah
+ * Github link to repo: https://github.com/jrmart45/AddingMachine.git
+ *
+ */
 public class main {
 	   public static void main(String[] args) {
 	       
